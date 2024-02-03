@@ -1,2 +1,25 @@
-# SpaceNews
-SpaceNews Es una aplicacion dedicada a la publicacion de noticias relevantes sobre nuestro universo.
+ DeliverExpress
+Aplicaciones Móviles - React Native
+
+Requisitos previos: 
+    - Tener instalado Node.js y npm (Instalar por parte de la página principal de Node) <br>
+    - Tener instalado expo (Mirar el apartado de 'Principalmente')  <br>
+    - Tener instalado Git (Instalar por aprte de la página principal de Git)  <br>
+
+## Instrucciones para clonar e iniciar el proyecto en local:
+1. Abre una terminal o cmd, dependiendo del sistema operativo que tengas. 
+2. Dirígete a la carpeta donde desees guardar el proyecto.
+3. Ejecuta el siguiente comando para clonar este repositorio: git clone https://github.com/Nexo17Eq/SpaceNews.git
+
+### Principalmente:
+
+    - Para poder instalar correctamente las dependencias y node modules necesarios usar: npm install
+
+    - Para correr la aplicación usar el comando: npx expo start (Necesario tener instalado anteriormente expo)
+
+        - En caso de no tener el expo instalarlo con el siguiente comando: npm install -g expo-cli exp
+
+    - ¡Listo, disfruta de la vista de la APP!
+
+Alumno: Juan Daniel Estrada Quezada <br>
+Asesore: Vara Chacon Pedro Said
